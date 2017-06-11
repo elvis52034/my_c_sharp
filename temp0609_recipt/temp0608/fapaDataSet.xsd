@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="fapaDataSet" targetNamespace="http://tempuri.org/fapaDataSet.xsd" xmlns:mstns="http://tempuri.org/fapaDataSet.xsd" xmlns="http://tempuri.org/fapaDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="fapaDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="fapaDataSet" msprop:Generator_UserDSName="fapaDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Receipt" msprop:Generator_TableClassName="ReceiptDataTable" msprop:Generator_TableVarName="tableReceipt" msprop:Generator_TablePropName="Receipt" msprop:Generator_RowDeletingName="ReceiptRowDeleting" msprop:Generator_RowChangingName="ReceiptRowChanging" msprop:Generator_RowEvHandlerName="ReceiptRowChangeEventHandler" msprop:Generator_RowDeletedName="ReceiptRowDeleted" msprop:Generator_UserTableName="Receipt" msprop:Generator_RowChangedName="ReceiptRowChanged" msprop:Generator_RowEvArgName="ReceiptRowChangeEvent" msprop:Generator_RowClassName="ReceiptRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="獎號" msprop:Generator_ColumnVarNameInTable="column獎號" msprop:Generator_ColumnPropNameInRow="獎號" msprop:Generator_ColumnPropNameInTable="獎號Column" msprop:Generator_UserColumnName="獎號" type="xs:string" />
+              <xs:element name="獎項" msprop:Generator_ColumnVarNameInTable="column獎項" msprop:Generator_ColumnPropNameInRow="獎項" msprop:Generator_ColumnPropNameInTable="獎項Column" msprop:Generator_UserColumnName="獎項" type="xs:string" minOccurs="0" />
+              <xs:element name="獎金" msprop:Generator_ColumnVarNameInTable="column獎金" msprop:Generator_ColumnPropNameInRow="獎金" msprop:Generator_ColumnPropNameInTable="獎金Column" msprop:Generator_UserColumnName="獎金" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,11 @@
+C:\elvis1060427\Lab\temp0608\temp0608\bin\Debug\temp0608.exe.config
+C:\elvis1060427\Lab\temp0609_recipt\temp0608\bin\Debug\temp0608.exe.config
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\bin\Debug\temp0608.exe.config
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\bin\Debug\temp0608.exe
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\bin\Debug\temp0608.pdb
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\obj\Debug\temp0608.csprojResolveAssemblyReference.cache
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\obj\Debug\temp0608.Form1.resources
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\obj\Debug\temp0608.Properties.Resources.resources
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\obj\Debug\temp0608.csproj.GenerateResource.Cache
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\obj\Debug\temp0608.exe
+D:\程式設計1060501\C#程式語言\temp0609_recipt\temp0608\obj\Debug\temp0608.pdb
